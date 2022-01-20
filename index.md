@@ -11,7 +11,7 @@
     * [框架目录结构](https://github.com/scofi/blog/blob/master/java/springboot/catalogue_structure.md)
 
 ### Redis
-* [Redis bitmap 占用内存大问题](https://github.com/scofi/blog/blob/master/redis/bitmap offset memory.md)
+* [Redis bitmap 占用内存大问题](https://github.com/scofi/blog/blob/master/redis/bitmap_offset_memory.md)
 
 ### PHP
 ### Vue
